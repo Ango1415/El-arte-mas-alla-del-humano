@@ -1,0 +1,7 @@
+EL ARTE MAS ALLÁ DEL HUMANO.
+ 
+Video explicativo: https://youtu.be/nnps93GQXYs
+
+Bienvenido a nuestro proyecto.
+
+Para la ejecución del notebook debes ejecutarlo con la herramienta de Google Colaboratory, junto a este notebook se encuentran las canciones en formato midi que tomamos de ejemplo para la ejecución de la red, debes ponerla directamente en la carpeta My_drive de Google drive.
